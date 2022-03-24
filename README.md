@@ -2,7 +2,7 @@
 
 This repository contains the demos from my session "Operate Kubernetes workloads: extend the platform with the operator pattern!" at [Voxxed Days Bucharest 2022](https://romania.voxxeddays.com/bucharest/voxxed-days-bucharest-2022/).
 
-* Slides
+* [Slides](https://www.slideshare.net/paolopat/operate-kubernetes-workloads-extend-the-platform-with-the-operator-pattern-251417775)
 * Video
 
 # Requirements
